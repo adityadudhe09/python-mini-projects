@@ -1,0 +1,480 @@
+Sub-directory: Hello
+Python file: Hello.py
+Line count: 3
+
+Sub-directory: convert_dictionary_to_python_object
+Python file: conversion.py
+Line count: 6
+
+Sub-directory: Merge_csv_files
+Python file: merge_csv_files.py
+Line count: 8
+
+Sub-directory: Text_to_speech
+Python file: txtToSpeech.py
+Line count: 9
+
+Sub-directory: Decimal_to_binary_convertor_and_vice_versa
+Python file: decimal_to_binary.py
+Line count: 12
+
+Sub-directory: Leap_Year_Checker
+Python file: leapyear.py
+Line count: 12
+
+Sub-directory: Spell_checker
+Python file: spell_checker.py
+Line count: 12
+
+Sub-directory: whatsapp_Bot
+Python file: main.py
+Line count: 12
+
+Sub-directory: Find_out_hostname_and_ip_address
+Python file: Hostname_IPaddress.py
+Line count: 13
+
+Sub-directory: Convert_XML_To_JSON
+Python file: converter.py
+Line count: 14
+
+Sub-directory: Convert_JSON_to_CSV
+Python file: converter.py
+Line count: 15
+
+Sub-directory: Countdown_timer
+Python file: main.py
+Line count: 15
+
+Sub-directory: All_links_from_given_webpage
+Python file: get_links.py
+Line count: 17
+
+Sub-directory: Fetch_open_ports
+Python file: fetch_open_port.py
+Line count: 17
+
+Sub-directory: Qr_code_generator
+Python file: generate_qrcode.py
+Line count: 18
+
+Sub-directory: Battery_notification
+Python file: battery.py
+Line count: 19
+
+Sub-directory: Hashing_passwords
+Python file: hashing_passwords.py
+Line count: 19
+
+Sub-directory: Sine_Wave
+Python file: sine_wave.py
+Line count: 19
+
+Sub-directory: Get_wifi_password
+Python file: wifi.py
+Line count: 20
+
+Sub-directory: Fetch HTTP status code
+Python file: fetch_http_status_code.py
+Line count: 22
+
+Sub-directory: Convert_a_image_to_pdf
+Python file: convert_image_to_pdf.py
+Line count: 23
+
+Sub-directory: Internet_connection_check
+Python file: internet_connection_check.py
+Line count: 23
+
+Sub-directory: Reduce_image_file_size
+Python file: reduce_image_size.py
+Line count: 23
+
+Sub-directory: Speech_to_text
+Python file: speech_to_text.py
+Line count: 23
+
+Sub-directory: Fetch_and_store_tweets
+Python file: fetch_store_tweet.py
+Line count: 24
+
+Sub-directory: Recursive_password_generator
+Python file: generator.py
+Line count: 24
+
+Sub-directory: Split_a_video_file_by_given_time_period
+Python file: videosplitter.py
+Line count: 24
+
+Sub-directory: Check_website_connectivity
+Python file: check_connectivity.py
+Line count: 25
+
+Sub-directory: Geocoding
+Python file: geocoding.py
+Line count: 25
+
+Sub-directory: Random_Wikipedia_Article
+Python file: wiki_random.py
+Line count: 25
+
+Sub-directory: S3_File_Upload
+Python file: main.py
+Line count: 26
+
+Sub-directory: Snapshot_of_given_website
+Python file: snapshot_of_given_website.py
+Line count: 26
+
+Sub-directory: Merge_pdfs
+Python file: merge_pdfs.py
+Line count: 28
+
+Sub-directory: Shutdown_or_restart_your_device
+Python file: PowerOptions.py
+Line count: 28
+
+Sub-directory: Dns_record
+Python file: dns_record.py
+Line count: 29
+
+Sub-directory: Python_auto_draw
+Python file: python-auto-draw.py
+Line count: 29
+
+Sub-directory: Random_word_from_list
+Python file: Random_word_from_list.py
+Line count: 29
+
+Sub-directory: Terminal_progress_bar_with_images_resizing
+Python file: progress_bar_ with_images_resizing.py
+Line count: 30
+
+Sub-directory: Time_to_load_website
+Python file: time_to_load_website.py
+Line count: 31
+
+Sub-directory: Compute_IoU
+Python file: Compute_IoU.py
+Line count: 33
+
+Sub-directory: String_search_from_multiple_files
+Python file: findstring.py
+Line count: 33
+
+Sub-directory: Extract_zip_files
+Python file: extract_zip_files.py
+Line count: 35
+
+Sub-directory: Fetch_current_weather
+Python file: fetch_current_weather.py
+Line count: 35
+
+Sub-directory: Tic_tac_toe
+Python file: tic_tac_toe.py
+Line count: 35
+
+Sub-directory: Unique_words_in_a_file
+Python file: unique.py
+Line count: 35
+
+Sub-directory: AudioBook
+Python file: Audio-book.py
+Line count: 36
+
+Sub-directory: Plagarism_checker
+Python file: plag.py
+Line count: 36
+
+Sub-directory: Textfile_analysis
+Python file: textfile_analysis.py
+Line count: 36
+
+Sub-directory: Web_scraping_a_youtube_comment
+Python file: webscrapindcomment.py
+Line count: 37
+
+Sub-directory: projects
+Python file: birthDateToCurrentAge.py
+Line count: 38
+
+Sub-directory: Encrypt_and_decrypt_text
+Python file: aes_encode.py
+Line count: 38
+
+Sub-directory: Create_a_script_to_encrypt_files_and_folder
+Python file: encrypt.py
+Line count: 39
+
+Sub-directory: Dominant_color
+Python file: find-color.py
+Line count: 39
+
+Sub-directory: Duplicate files remover
+Python file: duplicatefileremover.py
+Line count: 40
+
+Sub-directory: Capture_Video_Frames
+Python file: capture_video_frames.py
+Line count: 41
+
+Sub-directory: Password_generator
+Python file: password_generator.py
+Line count: 41
+
+Sub-directory: XKCD_downloader
+Python file: xkcd_dowloader.py
+Line count: 41
+
+Sub-directory: text_to_morse_code
+Python file: text_to_morse_code.py
+Line count: 42
+
+Sub-directory: convert pdf to text
+Python file: converter1.py
+Line count: 43
+
+Sub-directory: Solver_linear_equations
+Python file: linearEquations.py
+Line count: 44
+
+Sub-directory: Wikipedia_search_wordcloud
+Python file: wiki-search-cloud.py
+Line count: 44
+
+Sub-directory: Easy_cartoonify
+Python file: easy_cartoonify.py
+Line count: 45
+
+Sub-directory: Image_watermark
+Python file: watermark.py
+Line count: 45
+
+Sub-directory: capture_screenshot
+Python file: screenshot.py
+Line count: 47
+
+Sub-directory: Organized_download_folder_with_different_categories
+Python file: file-sortor.py
+Line count: 47
+
+Sub-directory: PDF to MP3
+Python file: PDF__TO__MP3.py
+Line count: 47
+
+Sub-directory: Diff_Util
+Python file: diff.py
+Line count: 48
+
+Sub-directory: Calculate_age
+Python file: calculate.py
+Line count: 49
+
+Sub-directory: Games
+Python file: QuizGame.py
+Line count: 49
+
+Sub-directory: Scrape_quotes
+Python file: quote_scraper.py
+Line count: 49
+
+Sub-directory: News_website_scraper
+Python file: moneycontrol_scrapper.py
+Line count: 52
+
+Sub-directory: Send_email_from_csv
+Python file: Sending_mail.py
+Line count: 52
+
+Sub-directory: Write_script_to_compress_folder_and_files
+Python file: zipfiles.py
+Line count: 52
+
+Sub-directory: Ascii_art
+Python file: make_art.py
+Line count: 54
+
+Sub-directory: download GeeksForGeeks articles
+Python file: downloader.py
+Line count: 54
+
+Sub-directory: Number_guessing_game
+Python file: main.py
+Line count: 54
+
+Sub-directory: Split_File
+Python file: split_files.py
+Line count: 55
+
+Sub-directory: Bouncing_ball_simulator
+Python file: ball_bounce.py
+Line count: 56
+
+Sub-directory: Captcha_Genrator
+Python file: Captcha_Genrator.py
+Line count: 56
+
+Sub-directory: Digital_clock
+Python file: digital_clock.py
+Line count: 56
+
+Sub-directory: export_mysql_to_csv_send_to_wocom
+Python file: export_mysql_data_to_csv.py
+Line count: 56
+
+Sub-directory: Download_images_from_website
+Python file: scrap-img.py
+Line count: 59
+
+Sub-directory: EasyVideoPlayer
+Python file: EasyVideoPlayer.py
+Line count: 60
+
+Sub-directory: RockPaperScissors_Game
+Python file: Rock_Paper_Scissors_Game.py
+Line count: 60
+
+Sub-directory: Language_translator
+Python file: translator.py
+Line count: 62
+
+Sub-directory: Wifi_windows_password_displayer
+Python file: main.py
+Line count: 62
+
+Sub-directory: Multi_language_OCR
+Python file: multi_language_OCR.py
+Line count: 63
+
+Sub-directory: Todo_app
+Python file: app.py
+Line count: 67
+
+Sub-directory: Cli_todo
+Python file: todo.py
+Line count: 68
+
+Sub-directory: Scraping Medium Articles
+Python file: scraping_medium.py
+Line count: 71
+
+Sub-directory: detect_align_faces
+Python file: main.py
+Line count: 74
+
+Sub-directory: GUI Rock-Paper-Scissors Game
+Python file: Rock-Paper-Scissors Game.py
+Line count: 74
+
+Sub-directory: Split_folder_into_subfolders
+Python file: split_and_copy.py
+Line count: 74
+
+Sub-directory: telegram_bot
+Python file: main.py
+Line count: 74
+
+Sub-directory: Write_script_to_move_files_into_alphabetically_ordered_folder
+Python file: main.py
+Line count: 75
+
+Sub-directory: dork_search_google
+Python file: main.py
+Line count: 76
+
+Sub-directory: Set_Alarm
+Python file: alarm.py
+Line count: 76
+
+Sub-directory: cat_command
+Python file: cat.py
+Line count: 79
+
+Sub-directory: Find_imdb_rating
+Python file: find_IMDb_rating.py
+Line count: 79
+
+Sub-directory: Create_a_simple_stopwatch
+Python file: stopwatch.py
+Line count: 81
+
+Sub-directory: Convert_numbers_to_word
+Python file: converter.py
+Line count: 83
+
+Sub-directory: Speaking_Dictionary
+Python file: SpeakingDictionary.py
+Line count: 83
+
+Sub-directory: Alarm clock
+Python file: alarm_clock.py
+Line count: 86
+
+Sub-directory: Zip_Bruter
+Python file: zipbruter.py
+Line count: 94
+
+Sub-directory: MasterMind
+Python file: Mastermind_GUIinterface.py
+Line count: 99
+
+Sub-directory: Scrape_Hacker_News
+Python file: main.py
+Line count: 99
+
+Sub-directory: Movie Information Scraper
+Python file: movieInfoScraper.py
+Line count: 100
+
+Sub-directory: Network Usage Tracker
+Python file: network_usage_tracker.py
+Line count: 114
+
+Sub-directory: Store_emails_in_csv
+Python file: store_emails.py
+Line count: 118
+
+Sub-directory: Create_calculator_app
+Python file: calculator.py
+Line count: 137
+
+Sub-directory: Web_page_summation
+Python file: app.py
+Line count: 142
+
+Sub-directory: Snake Game
+Python file: snake_game.py
+Line count: 163
+
+Sub-directory: Terminal_Based_Hangman_Game
+Python file: hangman.py
+Line count: 183
+
+Sub-directory: Unstructured Supplemenrary  Service Data
+Python file: ussdtim.py
+Line count: 188
+
+Sub-directory: Currency_converter
+Python file: cc.py
+Line count: 218
+
+Sub-directory: macOS
+Python file: main.py
+Line count: 272
+
+Sub-directory: windows
+Python file: main.py
+Line count: 275
+
+Sub-directory: Space_bullet_shooter_game
+Python file: space_bullet_shooter.py
+Line count: 312
+
+Sub-directory: Tic_tac_toe_with_ai
+Python file: tic-tac-toe-AI.py
+Line count: 346
+
+Sub-directory: Billing_system
+Python file: biling_system.py
+Line count: 427
+
